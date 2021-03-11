@@ -1,0 +1,19 @@
+{
+    "name": "bedz/03_good",
+    "authors": [
+        {
+            "name": "Dani Bednarski",
+            "email": "49581958+DaniBedz@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "ext-pdo": "*",
+        "vlucas/phpdotenv": "^5.3"
+    },
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
